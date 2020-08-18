@@ -1,4 +1,10 @@
-### Hi there 👋
+
+# Hola, soy **Richard Acosta**  👋
+
+## Desarrollador Web Frontend 💻🌐
+
+📚**Estudiante de Platzi**, actualmente especializandome en UX/UI. 
+
 
 <!--
 **r1chardcode/r1chardcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,9 @@
 
 # Hola, soy **Richard Acosta**  👋
 
-## Desarrollador Web Frontend 💻🌐
+## QA Analyst & Frontend Developer 💻🌐
 
-📚**Estudiante de Platzi**, actualmente especializandome en UX/UI. 
+<!--📚**Estudiante de Platzi**, actualmente especializandome en UX/UI. 
 
 
 <!--

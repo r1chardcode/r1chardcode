@@ -1,9 +1,7 @@
 
 # Hola, soy **Richard Acosta**  👋
 
-## QA Analyst & Frontend Developer 💻🌐
-
-<!--📚**Estudiante de Platzi**, actualmente especializandome en UX/UI. 
+## QA Automation Engineer 💻🌐
 
 
 <!--

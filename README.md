@@ -1,5 +1,5 @@
 
-# Hola, soy **Richard Acosta**  👋
+# Hi, I'm **r1chardcode**  👋
 
 ## QA Automation Engineer 💻🌐
 
